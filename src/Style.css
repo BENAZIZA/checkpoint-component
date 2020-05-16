@@ -1,0 +1,20 @@
+.body	
+{
+	width: 90%;
+	box-shadow: 0px 5px 10px 20px blue;
+	margin: auto;
+	height: 40vh;
+	display: inline;
+	display: flex;
+	justify-content: space-between;
+	position: relative;
+	top: 50px;
+	border-radius: 10px 10px 10px 10px;
+	background-color: #fff;
+
+}
+.Main
+{
+	background-color:grey;
+	height: 100vh
+}
